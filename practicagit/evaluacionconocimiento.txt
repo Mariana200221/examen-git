@@ -1,0 +1,1 @@
+el examen contenia preguntas del funcionamiento de cada comando git enseñados en clase
